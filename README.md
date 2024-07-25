@@ -1,5 +1,5 @@
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF3249&width=435&lines=I+am+Muhammed+Fahiz+K;Hello%2C+There)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF3249&width=435&lines=MERN+Stack+Developer++;UI+UX+Designer)](https://git.io/typing-svg)
 
 ### About Me
 
