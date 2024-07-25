@@ -1,4 +1,6 @@
 
+
+
 ### About Me
 
 - 👨‍💻 *MERN Stack Developer:* Skilled in JavaScript, React.js, MongoDB, Node.js, and Express. Experienced in developing robust RESTful APIs, implementing JWT authentication, and managing state with Redux and Redux Toolkit.
@@ -79,6 +81,13 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
 
+
+###
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fahiz-mavoor&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahiz-mavoor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
 ###
 
