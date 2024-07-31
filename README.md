@@ -14,7 +14,7 @@
 ##  Get In Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhaj-kc-a7b118308) &nbsp;&nbsp;
 &nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:fahizk100@gmiail.com)
-&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/fahiz._k](https://www.instagram.com/fahiz_.))
+&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/fahiz_._k](https://www.instagram.com/fahiz_._k))
 &nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/9961130563)
 
 
